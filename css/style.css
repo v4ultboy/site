@@ -1,1 +1,25 @@
-asd
+
+html, body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+	text-align: center;
+}
+
+main {
+	display: block;
+	position: absolute;
+  	top: 10%;
+  	left: 50%;
+  	transform: translate(-50%, -10%);
+}
+
+h1 {
+	font-family: 'Luxia', sans-serif;
+	font-weight: normal;
+	font-size: 4rem;
+
+
+}
