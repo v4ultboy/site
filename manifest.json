@@ -6,7 +6,6 @@
  "start_url": "https://password4j.com",
  "background_color": "#00aae7",
  "theme_color": "#00aae7",
- "dir": "ltr",
  "display": "browser",
  "orientation": "landscape",
  "icons": [
@@ -76,5 +75,5 @@
    "sizes": "16x16"
   }
  ],
- "prefer_related_applications": "false"
+ "prefer_related_applications": false
 }
